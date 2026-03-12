@@ -7,7 +7,7 @@
         <mxCell id="UEJeuEPZHWdiUbInBWaz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#003865;strokeWidth=2;dashed=0;arcSize=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="790" width="1250" x="80" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#003865;strokeWidth=1.5;align=left;spacingLeft=10;spacingRight=10;spacingTop=6;spacingBottom=6;arcSize=3;" value="&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 56, 101);&quot;&gt;Project Development&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 9pt; color: rgb(117, 120, 123);&quot;&gt;Description text about the project development process and a link to the overall project development SOP.&lt;/span&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#003865;strokeWidth=1.5;align=left;spacingLeft=10;spacingRight=10;spacingTop=6;spacingBottom=6;arcSize=3;" value="&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 56, 101);&quot;&gt;WPE Project Development&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 9pt; color: rgb(117, 120, 123);&quot;&gt;Description text about the project development process and a link to the overall project development SOP.&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="680" x="100" y="30" as="geometry" />
         </mxCell>
         <mxCell id="UEJeuEPZHWdiUbInBWaz-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#003865;strokeColor=#003865;strokeWidth=1.5;fontColor=#FFFFFF;align=center;" value="&lt;b style=&quot;font-family:Century Gothic,Calibri,sans-serif;font-size:9pt;color:#FFFFFF;&quot;&gt;Go / No-Go&lt;br&gt;Decision&lt;/b&gt;" vertex="1">
@@ -51,7 +51,7 @@
         <mxCell id="UEJeuEPZHWdiUbInBWaz-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#046A38);strokeColor=light-dark(#003865,#003865);strokeWidth=1.5;arcSize=3;" value="" vertex="1">
           <mxGeometry height="620" width="290" x="880" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F1FB;strokeColor=#0077C8;strokeWidth=1;align=left;spacingLeft=8;spacingRight=8;spacingTop=6;spacingBottom=6;arcSize=3;verticalAlign=top;" value="&lt;b style=&quot;font-family: Century Gothic, Calibri, sans-serif; font-size: 10pt; color: rgb(0, 56, 101);&quot;&gt;IGA PreFinal [ENG.DEV.003.P]&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 8.5pt; color: rgb(117, 120, 123);&quot;&gt;High-level description of what a Pre-Final-level effort involves and what deliverables are expected.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 8.5pt; color: rgb(0, 119, 200);&quot;&gt;→ Link to SOP&lt;/span&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6F1FB;strokeColor=#0077C8;strokeWidth=1;align=left;spacingLeft=8;spacingRight=8;spacingTop=6;spacingBottom=6;arcSize=3;verticalAlign=top;" value="&lt;b style=&quot;font-family: Century Gothic, Calibri, sans-serif; font-size: 10pt; color: rgb(0, 56, 101);&quot;&gt;IGA-PreFinal [ENG.DEV.003.P]&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 8.5pt; color: rgb(117, 120, 123);&quot;&gt;High-level description of what a Pre-Final-level effort involves and what deliverables are expected.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: Calibri, sans-serif; font-size: 8.5pt; color: rgb(0, 119, 200);&quot;&gt;→ Link to SOP&lt;/span&gt;" vertex="1">
           <mxGeometry height="100" width="270" x="890" y="178" as="geometry" />
         </mxCell>
         <mxCell id="UEJeuEPZHWdiUbInBWaz-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0077C8;strokeWidth=1;align=left;spacingLeft=8;spacingRight=8;spacingTop=6;spacingBottom=6;arcSize=3;verticalAlign=top;" value="&lt;b style=&quot;font-family:Century Gothic,Calibri,sans-serif;font-size:9pt;color:#003865;&quot;&gt;Prepare&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-family:Calibri,sans-serif;font-size:8pt;color:#444444;&quot;&gt;• Preparation step 1&lt;br&gt;• Preparation step 2&lt;br&gt;• Preparation step 3&lt;br&gt;• Preparation step 4&lt;/span&gt;" vertex="1">
@@ -140,10 +140,10 @@
             <mxPoint x="345" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-45" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot;&gt;&lt;b&gt;Create SPARK&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-45" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot;&gt;&lt;b&gt;Create SPARK&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="295" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;b&gt;Client Prelim Kick-off Meeting&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Client Prelim Kick-off Meeting&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="25" width="187.5" x="251.25" y="425" as="geometry" />
         </mxCell>
         <mxCell id="UEJeuEPZHWdiUbInBWaz-49" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=light-dark(#003865,#003865);strokeWidth=1.5;fillColor=none;" target="UEJeuEPZHWdiUbInBWaz-50" value="">
@@ -152,7 +152,7 @@
             <mxPoint x="345" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;b&gt;Client Authorizes IGA&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-50" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Client Authorizes IGA&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="135" x="277.5" y="755" as="geometry" />
         </mxCell>
         <mxCell id="UEJeuEPZHWdiUbInBWaz-52" edge="1" parent="1" source="UEJeuEPZHWdiUbInBWaz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=light-dark(#003865,#003865);strokeWidth=1.5;fillColor=none;" target="UEJeuEPZHWdiUbInBWaz-51" value="">
@@ -161,7 +161,7 @@
             <mxPoint x="685" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-51" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;b&gt;Client ROM Kick-off Meeting&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-51" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Client ROM Kick-off Meeting&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="25" width="187.5" x="591.25" y="425" as="geometry" />
         </mxCell>
         <mxCell id="UEJeuEPZHWdiUbInBWaz-54" edge="1" parent="1" source="UEJeuEPZHWdiUbInBWaz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=light-dark(#003865,#003865);strokeWidth=1.5;fillColor=none;" target="UEJeuEPZHWdiUbInBWaz-53" value="">
@@ -170,10 +170,10 @@
             <mxPoint x="685" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-53" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot;&gt;&lt;b&gt;Refine SPARK&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-53" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot;&gt;&lt;b&gt;Refine SPARK&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="635" y="590" as="geometry" />
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-57" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;b&gt;Client Approves ROM&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-57" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;font face=&quot;Century Gothic&quot; style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Client Approves ROM&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="135" x="617.5" y="755" as="geometry" />
         </mxCell>
         <mxCell id="UEJeuEPZHWdiUbInBWaz-58" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeColor=light-dark(#003865,#003865);strokeWidth=1.5;fillColor=none;" value="">
@@ -188,7 +188,7 @@
             <mxPoint x="1025" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UEJeuEPZHWdiUbInBWaz-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(156, 204, 243));&quot;&gt;&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot;&gt;&lt;b&gt;Finalize SPARK&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="UEJeuEPZHWdiUbInBWaz-68" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.flowchart.process;rounded=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#003865);" value="&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;Century Gothic&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Century+Gothic&quot;&gt;&lt;b&gt;Finalize SPARK&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="975" y="590" as="geometry" />
         </mxCell>
       </root>
